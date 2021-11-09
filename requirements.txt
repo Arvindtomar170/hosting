@@ -1,4 +1,4 @@
-﻿antiorm==1.2.1
+antiorm==1.2.1
 backports.entry-points-selectable==1.1.0
 certifi==2021.10.8
 charset-normalizer==2.0.7
@@ -10,6 +10,7 @@ filelock==3.0.12
 Flask==2.0.2
 Flask-MySQLdb==0.2.0
 greenlet==1.1.2
+gunicorn==20.1.0
 idna==3.3
 itsdangerous==2.0.1
 Jinja2==3.0.2
